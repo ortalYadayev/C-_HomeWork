@@ -1,0 +1,20 @@
+C:\Users\Ortal Yadayev\source\repos\fifteen_1\fifteen_1\bin\Debug\fifteen_1.exe.config
+C:\Users\Ortal Yadayev\source\repos\fifteen_1\fifteen_1\bin\Debug\fifteen_1.exe
+C:\Users\Ortal Yadayev\source\repos\fifteen_1\fifteen_1\bin\Debug\fifteen_1.pdb
+C:\Users\Ortal Yadayev\source\repos\fifteen_1\fifteen_1\obj\Debug\fifteen_1.Properties.Resources.resources
+C:\Users\Ortal Yadayev\source\repos\fifteen_1\fifteen_1\obj\Debug\fifteen_1.csproj.GenerateResource.cache
+C:\Users\Ortal Yadayev\source\repos\fifteen_1\fifteen_1\obj\Debug\fifteen_1.csproj.CoreCompileInputs.cache
+C:\Users\Ortal Yadayev\source\repos\fifteen_1\fifteen_1\obj\Debug\fifteen_1.exe
+C:\Users\Ortal Yadayev\source\repos\fifteen_1\fifteen_1\obj\Debug\fifteen_1.pdb
+C:\Users\Ortal Yadayev\source\repos\fifteen_1\fifteen_1\obj\Debug\fifteen_1.Form1.resources
+C:\Users\Ortal Yadayev\source\repos\fifteen_1\fifteen_1\obj\Debug\fifteen_1.csprojAssemblyReference.cache
+C:\Users\Ortal Yadayev\Desktop\מדעי המחשב\שנהל ב\סמסטר ב\תכנות סביבת חלונות\h.w1\hw1\fifteen_1\fifteen_1\bin\Debug\fifteen_1.exe.config
+C:\Users\Ortal Yadayev\Desktop\מדעי המחשב\שנהל ב\סמסטר ב\תכנות סביבת חלונות\h.w1\hw1\fifteen_1\fifteen_1\bin\Debug\fifteen_1.exe
+C:\Users\Ortal Yadayev\Desktop\מדעי המחשב\שנהל ב\סמסטר ב\תכנות סביבת חלונות\h.w1\hw1\fifteen_1\fifteen_1\bin\Debug\fifteen_1.pdb
+C:\Users\Ortal Yadayev\Desktop\מדעי המחשב\שנהל ב\סמסטר ב\תכנות סביבת חלונות\h.w1\hw1\fifteen_1\fifteen_1\obj\Debug\fifteen_1.csprojAssemblyReference.cache
+C:\Users\Ortal Yadayev\Desktop\מדעי המחשב\שנהל ב\סמסטר ב\תכנות סביבת חלונות\h.w1\hw1\fifteen_1\fifteen_1\obj\Debug\fifteen_1.Form1.resources
+C:\Users\Ortal Yadayev\Desktop\מדעי המחשב\שנהל ב\סמסטר ב\תכנות סביבת חלונות\h.w1\hw1\fifteen_1\fifteen_1\obj\Debug\fifteen_1.Properties.Resources.resources
+C:\Users\Ortal Yadayev\Desktop\מדעי המחשב\שנהל ב\סמסטר ב\תכנות סביבת חלונות\h.w1\hw1\fifteen_1\fifteen_1\obj\Debug\fifteen_1.csproj.GenerateResource.cache
+C:\Users\Ortal Yadayev\Desktop\מדעי המחשב\שנהל ב\סמסטר ב\תכנות סביבת חלונות\h.w1\hw1\fifteen_1\fifteen_1\obj\Debug\fifteen_1.csproj.CoreCompileInputs.cache
+C:\Users\Ortal Yadayev\Desktop\מדעי המחשב\שנהל ב\סמסטר ב\תכנות סביבת חלונות\h.w1\hw1\fifteen_1\fifteen_1\obj\Debug\fifteen_1.exe
+C:\Users\Ortal Yadayev\Desktop\מדעי המחשב\שנהל ב\סמסטר ב\תכנות סביבת חלונות\h.w1\hw1\fifteen_1\fifteen_1\obj\Debug\fifteen_1.pdb

@@ -1,0 +1,11 @@
+C:\Users\Ortal Yadayev\Desktop\מדעי המחשב\שנהל ב\סמסטר ב\תכנות סביבת חלונות\מטלה 3\RedGreenBlue_ButtonLabel2\RedGreenBlue_ButtonLabel2\bin\Debug\RedGreenBlue_ButtonLabel2.exe.config
+C:\Users\Ortal Yadayev\Desktop\מדעי המחשב\שנהל ב\סמסטר ב\תכנות סביבת חלונות\מטלה 3\RedGreenBlue_ButtonLabel2\RedGreenBlue_ButtonLabel2\bin\Debug\RedGreenBlue_ButtonLabel2.exe
+C:\Users\Ortal Yadayev\Desktop\מדעי המחשב\שנהל ב\סמסטר ב\תכנות סביבת חלונות\מטלה 3\RedGreenBlue_ButtonLabel2\RedGreenBlue_ButtonLabel2\bin\Debug\RedGreenBlue_ButtonLabel2.pdb
+C:\Users\Ortal Yadayev\Desktop\מדעי המחשב\שנהל ב\סמסטר ב\תכנות סביבת חלונות\מטלה 3\RedGreenBlue_ButtonLabel2\RedGreenBlue_ButtonLabel2\obj\Debug\RedGreenBlue_ButtonLabel2.csprojAssemblyReference.cache
+C:\Users\Ortal Yadayev\Desktop\מדעי המחשב\שנהל ב\סמסטר ב\תכנות סביבת חלונות\מטלה 3\RedGreenBlue_ButtonLabel2\RedGreenBlue_ButtonLabel2\obj\Debug\RedGreenBlue_ButtonLabel2.Form1.resources
+C:\Users\Ortal Yadayev\Desktop\מדעי המחשב\שנהל ב\סמסטר ב\תכנות סביבת חלונות\מטלה 3\RedGreenBlue_ButtonLabel2\RedGreenBlue_ButtonLabel2\obj\Debug\RedGreenBlue_ButtonLabel2.Properties.Resources.resources
+C:\Users\Ortal Yadayev\Desktop\מדעי המחשב\שנהל ב\סמסטר ב\תכנות סביבת חלונות\מטלה 3\RedGreenBlue_ButtonLabel2\RedGreenBlue_ButtonLabel2\obj\Debug\RedGreenBlue_ButtonLabel2.csproj.GenerateResource.cache
+C:\Users\Ortal Yadayev\Desktop\מדעי המחשב\שנהל ב\סמסטר ב\תכנות סביבת חלונות\מטלה 3\RedGreenBlue_ButtonLabel2\RedGreenBlue_ButtonLabel2\obj\Debug\RedGreenBlue_ButtonLabel2.csproj.CoreCompileInputs.cache
+C:\Users\Ortal Yadayev\Desktop\מדעי המחשב\שנהל ב\סמסטר ב\תכנות סביבת חלונות\מטלה 3\RedGreenBlue_ButtonLabel2\RedGreenBlue_ButtonLabel2\obj\Debug\RedGreenBlue_ButtonLabel2.exe
+C:\Users\Ortal Yadayev\Desktop\מדעי המחשב\שנהל ב\סמסטר ב\תכנות סביבת חלונות\מטלה 3\RedGreenBlue_ButtonLabel2\RedGreenBlue_ButtonLabel2\obj\Debug\RedGreenBlue_ButtonLabel2.pdb
+C:\Users\Ortal Yadayev\Desktop\מדעי המחשב\שנהל ב\סמסטר ב\תכנות סביבת חלונות\מטלה 3\RedGreenBlue_ButtonLabel2\RedGreenBlue_ButtonLabel2\obj\Debug\RedGreenBlue_ButtonLabel2.UserControl1.resources
